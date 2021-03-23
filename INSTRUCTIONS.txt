@@ -1,0 +1,15 @@
+INFO
+Python Version: 3.9.0
+Tested on: Windows 10 
+------------------------------------------------------------------------------
+Put dataset folder at the same directory with the program.
+*------------------------*
+On Windows : 
+python spam_filter.py
+*------------------------*
+On Unix based systems: 
+python3 spam_filter.py
+*------------------------*
+
+Notes:
+* Output will be printed in command line. 
